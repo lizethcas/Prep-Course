@@ -40,6 +40,7 @@ Al igual que el tipo de dato _String_ tiene un método incorporado `.length`, ta
 ```javascript
 const nombresEstudiantes = ['Martin', 'Antonio', 'Sara', 'Samuel'];
 
+. 
 console.log(nombresEstudiantes.length);  // 4
 ```
 

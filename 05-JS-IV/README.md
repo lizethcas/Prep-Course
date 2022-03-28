@@ -150,7 +150,7 @@ Los objetos tienen una palabra clave autorreferencial que se puede aplicar en ca
 const usuario = {
     username: 'juan.perez',
     password: 'loremipsumpwd123',
-    lovesJavascript: true,
+     lovesJavascript: true,
     favoriteNumber: 42,
     decirHola: function(){
         console.log( this.username + ' manda saludos!');
